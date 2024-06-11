@@ -1,6 +1,6 @@
 # Hi there, I'm Ruchit Kharwa 👋
 
-I'm a senior software developer, CEO, and founder of WOLFx Digital Agency. I specialize in web technologies and mobile apps, and I enjoy working on creating tools that improve developer experience in WOLFx.
+I'm a senior software developer, CEO, and founder of WOLFx Digital Agency. I specialize in web technologies - especially SaaS apps and mobile apps, and I enjoy working to improve developer experience in WOLFx.
 
 ## About Me
 
