@@ -1,8 +1,6 @@
 # Hi there, I'm Ruchit Kharwa 👋
 
-I'm a senior software developer, CTO, and founder of Wolfx Digital Agency. I specialize in web technologies and mobile apps, and I enjoy working on implementing new features, code reviews, and deployments.
-
-![Wolfx Digital Agency](https://wolfx.io/static/cms/web-development/images/logo.webp)
+I'm a senior software developer, CEO, and founder of Wolfx Digital Agency. I specialize in web technologies and mobile apps, and I enjoy working on creating tools that improve developer experience in WOLFx.
 
 ## About Me
 
@@ -13,7 +11,7 @@ I'm a senior software developer, CTO, and founder of Wolfx Digital Agency. I spe
 
 ## Skills
 
-- **Languages:** JavaScript, Python, Java, C#
-- **Frameworks:** React, Django, Angular, Node.js
-- **Tools:** Docker, Kubernetes, Jenkins, Git
-- **Cloud:** Azure, AWS, GCP
+- **Languages:** Python, JavaScript, C, C++
+- **Frameworks:** Django, Node.js, Express
+- **Tools:** Docker, Kubernetes, Git
+- **Cloud:** Azure, AWS
