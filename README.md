@@ -4,7 +4,7 @@ I'm a senior software developer, CEO, and founder of WOLFx Digital Agency. I spe
 
 ## About Me
 
-- 🚀 CEO and Founder at [Wolfx Digital Agency](https://www.wolfx.io)
+- 🚀 CEO and Founder at [WOLFx Digital Agency](https://www.wolfx.io)
 - 💻 I work on web technologies, mobile apps, and specialize in creating optimum code solutions.
 - 🧠 Passionate about continuous learning and mentoring.
 - 🌍 Based in Mumbai, India
