@@ -83,21 +83,6 @@ I'm a senior software developer, CEO, and founder of Wolfx Digital Agency. I spe
 - Load Speed Optimization
 - Distributed deployment
 
-## General Terms and Conditions
-
-- "Our" or "us" refers to WOLFx Digital Agency.
-- Additional resources required will be charged extra based on project complexity, timeline, and headcount.
-- Support services will be executed as per project requirements and timelines.
-- Developers report directly to us for technical advice and guidance.
-- Final project timelines require our approval for any changes.
-- Project management communication and scrum calls are scheduled by us.
-- Annual Maintenance and Support (AMC & SUPPORT) cover bug fixes, minor changes, and technical support for updates to the website.
-- New software development and design work are not covered under the AMC.
-- All display material (e.g., product pictures, text matter, videos) provided by the client. Royalty-free stock pictures, if purchased, cost borne by the client.
-- Costs for third-party services (e.g., payment gateway, copywriting, live chat, photography) are paid separately to respective service providers.
-- The quote is valid for 15 days.
-- Applicable taxes are charged extra.
-
 ## Contact
 
 - **Email:** [ruchit@wolfx.io](mailto:ruchit@wolfx.io)
